@@ -97,3 +97,9 @@
  861626330 - ev_fall_tanks_sfx_08
  683578608 - ev_fall_tanks_sfx_09
 ```
+### hangar_places
+```
+ 391095561 - hg_places_bp_music_01
+ 805165376 - hg_places_bp_music_02
+ 951898022 - hg_places_bp_music_03
+```
